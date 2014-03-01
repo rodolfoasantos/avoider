@@ -10,3 +10,5 @@ $('#input-field').onlyLetters();
 ```javascript
 $('#input-field').onlyNumbers();
 ```
+
+coming soon more features...
